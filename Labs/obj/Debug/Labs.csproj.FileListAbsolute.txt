@@ -1,0 +1,81 @@
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab2\Shaders\fSimple.frag
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab2\Shaders\vLab21.vert
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab2\Shaders\vLab22.vert
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab3\Shaders\fPassThrough.frag
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab3\Shaders\vLighting.vert
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab4\Shaders\fLab4.frag
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab4\Shaders\vLab4.vert
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab5\Shaders\fTexture.frag
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab5\Shaders\vTexture.vert
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab1\Shaders\fSimple.frag
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab1\Shaders\vSimple.vert
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Utility\Models\cylinder.bin
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Utility\Models\lab22model.sjg
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Utility\Models\model.bin
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Utility\Models\sphere.bin
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Labs.exe.config
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Labs.exe
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Labs.pdb
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\OpenTK.dll
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\obj\Debug\Labs.exe
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\obj\Debug\Labs.pdb
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab3\Shaders\fLighting.frag
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab3\Shaders\vPassThrough.vert
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\obj\Debug\Labs.csprojResolveAssemblyReference.cache
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab5\texture.jpg
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab5\texture2.jpg
+C:\Users\paptol\Desktop\491564\Labs\obj\Debug\Labs.csprojResolveAssemblyReference.cache
+C:\Users\paptol\Desktop\491564\Labs\obj\Debug\Labs.exe
+C:\Users\paptol\Desktop\491564\Labs\obj\Debug\Labs.pdb
+C:\Users\paptol\Desktop\491564\Labs\bin\Debug\Utility\Models\cylinder.bin
+C:\Users\paptol\Desktop\491564\Labs\bin\Debug\Utility\Models\lab22model.sjg
+C:\Users\paptol\Desktop\491564\Labs\bin\Debug\Utility\Models\model.bin
+C:\Users\paptol\Desktop\491564\Labs\bin\Debug\Utility\Models\sphere.bin
+C:\Users\paptol\Desktop\491564\Labs\bin\Debug\Labs.exe.config
+C:\Users\paptol\Desktop\491564\Labs\bin\Debug\Labs.exe
+C:\Users\paptol\Desktop\491564\Labs\bin\Debug\Labs.pdb
+C:\Users\paptol\Desktop\491564\Labs\bin\Debug\OpenTK.dll
+C:\Users\paptol\Desktop\491564\Labs\bin\Debug\ACW\Shaders\tx.jpg
+C:\Users\paptol\Desktop\491564\Labs\bin\Debug\ACW\Shaders\tx2.JPG
+C:\Users\paptol\Desktop\491564\Labs\bin\Debug\ACW\Shaders\fLight.frag
+C:\Users\paptol\Desktop\491564\Labs\bin\Debug\ACW\Shaders\vSdr.vert
+C:\Users\paptol\Desktop\491564\Labs\bin\Debug\Utility\Models\MainCube.sjg
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\ACW\Shaders\tx.jpg
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\ACW\Shaders\tx2.JPG
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\ACW\Shaders\fLight.frag
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\ACW\Shaders\vSdr.vert
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Utility\Models\MainCube.sjg
+C:\Users\paptol\Desktop\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\ACW\Shaders\tx.jpg
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\ACW\Shaders\tx2.JPG
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\ACW\Shaders\fLight.frag
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\ACW\Shaders\vSdr.vert
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab2\Shaders\fSimple.frag
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab2\Shaders\vLab21.vert
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab2\Shaders\vLab22.vert
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab3\Shaders\fLighting.frag
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab3\Shaders\fPassThrough.frag
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab3\Shaders\vLighting.vert
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab3\Shaders\vPassThrough.vert
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab4\Shaders\fLab4.frag
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab4\Shaders\vLab4.vert
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab5\Shaders\fTexture.frag
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab5\Shaders\vTexture.vert
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab1\Shaders\fSimple.frag
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab1\Shaders\vSimple.vert
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Utility\Models\cylinder.bin
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Utility\Models\lab22model.sjg
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Utility\Models\MainCube.sjg
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Utility\Models\model.bin
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Utility\Models\sphere.bin
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab5\texture.jpg
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Lab5\texture2.jpg
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Labs.exe.config
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Labs.exe
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\Labs.pdb
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\bin\Debug\OpenTK.dll
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\obj\Debug\Labs.csprojResolveAssemblyReference.cache
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\obj\Debug\Labs.exe
+D:\Uni staff\2th Year\08214_1617S2 Simulation and 3D Graphics\491564\Labs\obj\Debug\Labs.pdb
+C:\Users\paptol\Desktop\491564\Labs\obj\Debug\Labs.csproj.CoreCompileInputs.cache
